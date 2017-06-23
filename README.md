@@ -69,7 +69,7 @@ Picture is truth
 
 @IBInspectable Supported
 
-[](http://ww2.sinaimg.cn/large/006tKfTcgy1fgvn6r38qpj30ds0keq32.jpg)
+![](http://ww2.sinaimg.cn/large/006tKfTcgy1fgvn6r38qpj30ds0keq32.jpg)
 
 ### Delegate
 
